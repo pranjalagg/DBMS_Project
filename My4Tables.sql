@@ -24,26 +24,26 @@ INSERT INTO T11_CUSTOMER VALUES (220, 'Jayne', 'Mansfield','1933-04-19', 'F', 'P
 
 -- table 3
 
-INSERT INTO T11_INCIDENT_REPORT  VALUES('301','Fire','Tamal Devgan', '10 Jan 1999', 560000,'Severe fire caused due to accident, damage 90%','111','201');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('302','Cyclone',' Chand Raju', '20 Feb 2000', 890000,'Severe damage of about 85% dur to Cyclone Aila','105','202');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('303','Accident','Wahid Bhai Mathur', '2 March 2000',12000000,'Damage of about 50% caused due to head in collision','101','203');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('304','Animal Attack','Srinivasan Mann', '10 March 2000', 1850980,'Wild animal attack at the rear of the vehicle, damage 30%','113','204');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('305','Corrosion','Albert Nayar', '24 Jan 2002',450000,'Vehicle Damaged due to heavy corrosion','117','205');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('306','Riots','Marlo Singh Lodi', '26 August 2002', 3400500,'Vehicle flipped over and damaged during the Cambridge Riot','107','206');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('307','Drunken Driving','Pratap Dara', '3 Feb 2004',76000,'Light damage to the vehicle caused due to collision with a drunk driver vehicle','103','207');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('308','Engine Overheating','Ajeet Nanda', '18 March 2004',45000,'Engine overheating caused due to parking in extreme sunlight','108','208');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('309','Property Damage','Parveen Abbas', '20 June 2005',765000,'Vehicle damaged during demolition work','102','209');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('310','Engine Overheating','Aditya Taahid', '1 Jan 2006',980400,'Fuel Tank explosion due to overheating, damage 100%','108','210');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('311','Collision','Jaswant Ram', '12 Feb 2007',8790050,'Damage due to head on collision with electricity pole, full frontal damage','115','211');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('312','Earthquake','Narayan Raja', '17 Oct 2007',875000,'Vehicle buried under debris due to earthquake, damage 60%','104','212');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('313','Damage Caused Due to 3rd Party','Jaswant Rama', '19 Dec 2007',8798400,'Vehicle damaged during fight among two people','112','213');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('314','Engine Failure','Koushtubh Manne', '20 Jan 2008',6574500,'Vehicle damaged due to engine failure while driving, collision with vehicle coming from behind','114','214');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('315','Landslide','Tarun Bhai Sundaram', '6 March 2010',84900,'Vehicle slipped through the valley, during landslides','109','215');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('316','Overspeeding','Kalyan Raj Mehrotra', '8 August 2011',12098500,'Partial Damage due to collision while overspeeding','110','216');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('317','Criminal Activity','Ishat Kade', '12 Dec 2012',8795000,'Car stolen and damaged during a robbery','106','217');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('318','Short Circuit','Kamlesh Bhai', '1 March 2013',6574500,'Damage due to short circuit, damage 65%','120','218');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('319','Seizure of Engine','Varun Mathur', '8 Sep 2013',5794000,'Unpredicted engine seizure, damage 45%','118','219');
-INSERT INTO T11_INCIDENT_REPORT  VALUES('320','Fire','Varun Mathur', '9 Dec 2014',5500000,'Damage due to car set on fire, damage 85%','111','220');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('301','Fire','Deepanshu Sachdeva', '10 Jan 1999', 560000,'Severe fire caused due to accident, damage 90%','111','201');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('302','Cyclone',' Vinita Yadav', '20 Feb 2000', 890000,'Severe damage of about 85% dur to Cyclone Aila','105','202');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('303','Accident','Pranjal Aggarwal', '2 March 2000',12000000,'Damage of about 50% caused due to head in collision','101','203');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('304','Animal Attack','Shubham Sharma', '10 March 2000', 1850980,'Wild animal attack at the rear of the vehicle, damage 30%','113','204');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('305','Corrosion','Jagrut Nemade', '24 Jan 2002',450000,'Vehicle Damaged due to heavy corrosion','117','205');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('306','Riots','Kshitiz Michael', '26 August 2002', 3400500,'Vehicle flipped over and damaged during the Cambridge Riot','107','206');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('307','Drunken Driving','Kalin Sharma', '3 Feb 2004',76000,'Light damage to the vehicle caused due to collision with a drunk driver vehicle','103','207');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('308','Engine Overheating','Bitoo Bhaiya', '18 March 2004',45000,'Engine overheating caused due to parking in extreme sunlight','108','208');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('309','Property Damage','Aditya Katoch', '20 June 2005',765000,'Vehicle damaged during demolition work','102','209');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('310','Engine Overheating','Rajeevni Suryavanshi', '1 Jan 2006',980400,'Fuel Tank explosion due to overheating, damage 100%','108','210');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('311','Collision','Rakesh Kumar', '12 Feb 2007',8790050,'Damage due to head on collision with electricity pole, full frontal damage','115','211');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('312','Earthquake','Rahul Raghav', '17 Oct 2007',875000,'Vehicle buried under debris due to earthquake, damage 60%','104','212');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('313','Damage Caused Due to 3rd Party','Naman Kant', '19 Dec 2007',8798400,'Vehicle damaged during fight among two people','112','213');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('314','Engine Failure','Nayan Kant', '20 Jan 2008',6574500,'Vehicle damaged due to engine failure while driving, collision with vehicle coming from behind','114','214');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('315','Landslide','Avinash Singh', '6 March 2010',84900,'Vehicle slipped through the valley, during landslides','109','215');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('316','Overspeeding','Aman Yadav', '8 August 2011',12098500,'Partial Damage due to collision while overspeeding','110','216');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('317','Criminal Activity','Akshay Kumar', '12 Dec 2012',8795000,'Car stolen and damaged during a robbery','106','217');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('318','Short Circuit','Lakshya Chatrapati', '1 March 2013',6574500,'Damage due to short circuit, damage 65%','120','218');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('319','Seizure of Engine','Akarsh Maurya', '8 Sep 2013',5794000,'Unpredicted engine seizure, damage 45%','118','219');
+INSERT INTO T11_INCIDENT_REPORT  VALUES('320','Fire','Mithil Anchan', '9 Dec 2014',5500000,'Damage due to car set on fire, damage 85%','111','220');
 
 -- table 4
 
