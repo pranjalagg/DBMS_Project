@@ -65,7 +65,17 @@ WHERE
         HAVING COUNT(DISTINCT (t11_Product_Type)) > COUNT(DISTINCT (t11_Department_Name)));
 
 
+-- QUERY 4
 
+ SELECT * FROM T11_CUSTOMER AS c  INNER JOIN T11_PREMIUM_PAYMENT AS pp 
+ ON c.T11_cust_id = pp.T11_cust_id
+ INNER JOIN T11_VEHICLE AS v
+ ON c.T11_cust_id = v.T11_cust_id
+ INNER JOIN T11_INCIDENT_REPORT as ir
+ ON c.T11_cust_id = ir.T11_cust_id
+ GROUP BY c.t11_cust_id
+ HAVING COUNT(v.t11_vehicle_id) > 1
+AND pp.T11_Premium_Payment_Schedule > curdate()
 
 
 
